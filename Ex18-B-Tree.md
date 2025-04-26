@@ -1,5 +1,5 @@
-# Ex18 B-Tree
-## DATE:
+# Ex4(C) B-Tree
+## DATE:7/4/25
 ## AIM:
 To write a C function to delete an element in a B Tree.
 ## Algorithm
